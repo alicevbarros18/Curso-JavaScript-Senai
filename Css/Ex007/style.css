@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(110, 129, 240) ;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+div{
+    background-color: blueviolet;
+    width: 200px;
+    /*Largura*/
+    height: 200px;
+     /*Altura*/
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+    div:hover{
+        background-color: rgb(0, 196, 114);
+    }
+
+#primeiro:hover{
+    background-color: rgb(255, 0, 0);
+   
+}
+#segundo:hover{
+    background-color: rgb(0, 255, 76);
+    
+}
+#terceiro:hover{
+    background-color: rgb(0, 47, 255);
+ 
+}

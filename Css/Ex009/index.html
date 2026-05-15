@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamentos</title>
+    <Style>
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        #container{
+            background-color: rgb(160, 229, 250);
+            display: flex;
+            height: 250px;
+            
+            /*Alinhamento Horizontal*/
+
+            justify-content: center;
+            /*justify-content: Start         -> Inicio da tela */
+            /*justify-content: end           -> Final da tela */
+            /*justify-content: center        -> Meio da tela*/
+            /*justify-content: space-around  -> Calcula o spaçamento antes e depois da letra */
+            /*justify-content: space-between -> Espaçamento depois da letra */
+            /**justify-content: space-evenly -> Espaçamento se repete */
+
+            /*Alinhamento Vertical*/
+            align-items: center;
+        }
+
+        .item{
+            background-color: rgb(107, 208, 255);
+            padding: 5px;
+            border: 1px solid rgb(255, 255, 255); 
+            margin: 0px;
+        }
+
+    </Style>
+</head>
+<body>
+    
+    <h1>Trabalhando com Alinhamentos</h1>
+    <div id="container">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">F</div>
+
+    </div>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(110, 129, 240) ;
+
+}
+
+/* Para Estilizar IDs, usamos  #" */
+/*Para Estilizar Classes, usamos "." */
+
+
+
+#tituloPrincipal{
+    background-color: aliceblue;
+    color: rgb(214, 69, 69);
+    text-align: center;
+    font-size: 40px;
+}
+
+#ModuloHTML{
+    background-color: aqua;
+    color: #ff0000;
+    text-align: center;
+    font-size: 40px;
+}
+
+#ModuloCSS{
+    background-color: aqua;
+    color: #ff0000;
+    text-align: center;
+    font-size: 40px;
+}
+
+#ModuloJAVASCRIPT{
+    background-color: aqua;
+    color: #ff0000;
+    text-align: center;
+    font-size: 40px;
+}
+
+#Modulo{
+    background-color: aqua;
+    color: #ff0000;
+    text-align: center;
+    font-size: 40px;
+}
+
+.Basico{
+    background-color: rgb(165, 255, 255);
+    color: #ffe600;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.Intermediario{
+    background-color: rgb(98, 214, 214);
+    color: #ff0000;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Avançado{
+    background-color: rgb(71, 190, 190);
+    color: #00ff4c;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.Formato{
+    text-align: center;
+     font-size: 20px;
+
+}
+
+.destaque{
+    background-color: #ff0000;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(82, 82, 231);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1,h2{
+    color: rgb(108, 108, 187);
+}
+
+p{
+    color: aqua;
+}
+a{
+    color: antiquewhite;
+}
+h2{
+    color: bisque;
+}
